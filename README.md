@@ -1,6 +1,6 @@
-# sample
+# Flutter Redux
 
-A new Flutter project.
+A Flutter project that implement redux state managment
 
 ## Getting Started
 
